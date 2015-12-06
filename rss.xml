@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[|W|T|F|]]></title>
         <description><![CDATA[|W|T|F|]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/wtf/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 06 Dec 2015 22:05:14 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 06 Dec 2015 22:08:18 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/wtf/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p>]]></description>
+            <link>https://thegrid.ai/wtf/1abe4e9c-8765-40be-97fe-73ed51125221/index.html</link>
+            <guid isPermaLink="false">1abe4e9c-8765-40be-97fe-73ed51125221</guid>
+            <pubDate>Sun, 06 Dec 2015 22:08:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f6d6d5fd-70dc-4e9c-99b9-bd26813a268f.jpg">]]></description>
-            <link>undefined47c82e3b-4804-4639-9f1c-49c2aaaee207/index.html</link>
+            <link>https://thegrid.ai/wtf/47c82e3b-4804-4639-9f1c-49c2aaaee207/index.html</link>
             <guid isPermaLink="false">47c82e3b-4804-4639-9f1c-49c2aaaee207</guid>
             <pubDate>Sun, 06 Dec 2015 22:05:13 GMT</pubDate>
         </item>
