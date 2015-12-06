@@ -2,6 +2,7 @@ name: wtf
 favicon: null
 layout_spectrum: 1
 typography_spectrum: 0.14648
+title: '|W|T|F|'
 cta:
   domain: null
   bucket: null
