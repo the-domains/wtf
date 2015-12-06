@@ -1,7 +1,7 @@
 name: wtf
 favicon: null
-layout_spectrum: 0.817096438491717
-typography_spectrum: 0.9914869358763099
+layout_spectrum: 1
+typography_spectrum: 0.14648
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
-  brandStrength: 0.6441055769100785
-  lightness: 0.9889087497722358
-  saturation: 0.4746512952260673
-  rhythmicContrast: 0.3704896492417902
+    - '#fff200'
+    - '#231f20'
+    - '#6d6e71'
+    - '#a7a9ac'
+    - '#f4e815'
+  brandStrength: 0.5
+  lightness: 0
+  saturation: 0
+  rhythmicContrast: 1
 purpose: []
