@@ -1,29 +1,41 @@
-name: wtf
-favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.14648
 title: '|W|T|F|'
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+color:
+  saturation: 0
+  brandStrength: 1
+  lightness: 0
+  brandColors:
+    - '#000000'
+    - '#EFECE7'
+    - '#72727E'
+    - '#F98800'
+    - '#5F2B00'
+  rhythmicContrast: 1
 cta:
-  domain: null
   bucket: null
   version: null
+  domain: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
+favicon: null
+name: wtf
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#fff200'
-    - '#231f20'
-    - '#6d6e71'
-    - '#a7a9ac'
-    - '#f4e815'
-  brandStrength: 0.5
-  lightness: 0
-  saturation: 0
-  rhythmicContrast: 1
-purpose: []
+typography_spectrum: 0.2240143
+layout_spectrum: 0.7562724
